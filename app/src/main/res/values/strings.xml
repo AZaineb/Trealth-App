@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TrealthApp</string>
+    <string name="welcome_to_trealth">WELCOME TO TREALTH</string>
+    <string name="let_s_start">Let\'s start</string>
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="hello_there_welcome_back">Hello there,Welcome Back</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="go">GO</string>
+    <string name="not_yet_registred_sign_up">Not yet registred? Sign Up</string>
+    <string name="not_yet_registred_sign_up_now">Not yet registred? Sign up Now</string>
+    <string name="hello_there_welcome_back2">Hello There, Welcome Back</string>
+    <string name="todo">TODO</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1037106009378",
+    "project_id": "login-regiser-app",
+    "storage_bucket": "login-regiser-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037106009378:android:5d527493357006fdf2017b",
+        "android_client_info": {
+          "package_name": "com.example.login_registerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtPHTph4C2ESgpCsGL0nsskzwR-CqjUX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037106009378:android:c2586fd334da96c0f2017b",
+        "android_client_info": {
+          "package_name": "com.example.trealthapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtPHTph4C2ESgpCsGL0nsskzwR-CqjUX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
